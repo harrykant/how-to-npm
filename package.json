@@ -5,9 +5,10 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Harry Kant",
   "license": "ISC",
-  "description": "",
+  "repository": "https://github.com/harrykant/how-to-npm",
+  "description": "How To NPM Test module",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
